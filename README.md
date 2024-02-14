@@ -9,10 +9,12 @@
   <video src="https://github.com/SA-Tester/StepperMotor--RotaryEncoder--ArduinoNano/assets/59891156/406d768a-07ed-4a89-8903-7295ef0e996e"/>
 </div>
 
+
 <div align="center">
   <i>The stepper motor at work</i>
-  <video src="https://github.com/SA-Tester/StepperMotor--RotaryEncoder--ArduinoNano/assets/59891156/98d5c0d7-f027-4c3b-aa26-37486ee245dd"/>
+  <video src="https://github.com/SA-Tester/StepperMotor--RotaryEncoder--ArduinoNano/assets/59891156/ffd7116d-07b6-45a5-bbef-2e8c40b5cc14"/>
 </div>
+
 
 
 #### Included Code Files
